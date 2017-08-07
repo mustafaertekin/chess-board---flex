@@ -3,10 +3,10 @@
   height: 640px;
   margin: 0 auto;
   margin-top: 20px;
-  border: 10px solid black;
+  border-bottom: 20px solid black;
   font-size: 70px;
   line-height: 80px;
-  transform: perspective( 600px ) rotateX( 70deg );
+  transform: perspective( 1200px ) rotateX( 50deg );
 }
 
 div {
@@ -18,6 +18,7 @@ div .black {
   width: 78px;
   border: 1px solid black;
   background-color: darkgrey;
+  Justify-content:center
 }
 
 div .white {
