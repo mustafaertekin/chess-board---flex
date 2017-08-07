@@ -6,6 +6,7 @@
   border: 10px solid black;
   font-size: 70px;
   line-height: 80px;
+  transform: perspective( 600px ) rotateX( 70deg );
 }
 
 div {
