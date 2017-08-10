@@ -1,2 +1,4 @@
-# chess-board---flex
-Let`s draw a chess board with flex
+
+Link for live preview: 
+https://mustafaertekin.github.io/chess-board---flex/
+
